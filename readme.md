@@ -1,9 +1,9 @@
-#Carrom Board Game
+# Carrom Board Game
 
 This game uses **Three.js** which in turn uses **WebGL**.
 Browser with **HTML 5** capability needed.
 
-####Keyboard Controls
+#### Keyboard Controls
 
 The keyboard controls for the game are:
 
@@ -18,11 +18,11 @@ The keyboard controls for the game are:
 	n     - Toggle to next coin in Coin View Cam  
 	b     - Toggle to previous coin in Coin View Cam
 
-####Starting the game
+#### Starting the game
 
 - Open `index.html` in your browser.
 
-####Playing the game
+#### Playing the game
 
 You play to pocket the **white** coins.
 Your score starts at **100** points and **decreases** by **1** point every **5** seconds.
